@@ -10,3 +10,7 @@ This project harnesses the power of PySpark and Natural Language Processing (NLP
 2. NLP-Powered Insights: Extract and summarize recurring themes, keywords, and sentiments from customer feedback.
 3. Scalable Processing: Handle large datasets efficiently using PySpark’s distributed computing capabilities.
 4. Business Impact: Provide actionable insights to improve products and customer satisfaction.
+
+
+
+Dataset link : https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
