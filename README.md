@@ -1,6 +1,6 @@
 # Customer-Feedback-Analysis-and-Summarization
 
-Customer feedback is a treasure trove of insights that can help businesses improve products, services, and the overall customer experience. In today’s competitive market, understanding customer sentiments and identifying trends is essential.
+Customer feedback is very useful and can help businesses improve products, services, and the overall customer experience. In today’s competitive market, understanding customer sentiments and identifying trends is essential. 
 
 This project harnesses the power of PySpark and Natural Language Processing (NLP) techniques to analyze large-scale Amazon product reviews, enabling businesses to gain actionable insights from vast amounts of data.
 
